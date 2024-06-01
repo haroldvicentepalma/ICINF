@@ -1,4 +1,4 @@
-#programa que muestre un menu con opciones para una lista
+
 lista=[]
 cont=-1
 while True:
